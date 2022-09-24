@@ -1,4 +1,3 @@
-#! /usr/bin/python3
 import curses
 from dataclasses import dataclass, field
 import random
